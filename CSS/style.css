@@ -1,0 +1,28 @@
+h2 {
+    color: red;
+}
+
+h1 {
+    color: blue;
+    font-size: 64px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+img {
+    width: 640px;
+    height: 480px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+#asian {
+    border-color: crimson;
+}
+
+#african {
+    border-color: orange;
+}
